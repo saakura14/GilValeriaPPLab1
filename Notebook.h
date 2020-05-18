@@ -18,7 +18,7 @@ int isEmpty;
 
 }eNotebook;
 
-void initNotebook(eNotebook notebooks[], int tamNotebook);
+void inicioNotebook(eNotebook notebooks[], int tamNotebook);
 /** \brief
  *
  * \param

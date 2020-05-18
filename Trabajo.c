@@ -18,7 +18,7 @@ static int generarIdTrabajos()
 	return contadorId;
 }
 
-void initTrabajos(eTrabajo trabajos[], int tamTrabajos)
+void inicioTrabajos(eTrabajo trabajos[], int tamTrabajos)
 {
     int i;
 
@@ -96,7 +96,7 @@ void ingresoDatosTrabajo(eTrabajo trabajos[] , int tamTrabajos , eFecha auxFecha
 }
 
 
-void printTrabajos(eTrabajo trabajos , eNotebook notebooks[],int tamNotebook , eServicio servicios[] , int tamServicios)
+void imprimirTrabajos(eTrabajo trabajos , eNotebook notebooks[],int tamNotebook , eServicio servicios[] , int tamServicios)
 {
 
     char descripcionNotebook[20];
@@ -123,7 +123,8 @@ void mostrarTrabajos(eTrabajo trabajos[] , int tamTrabajos ,eNotebook notebooks[
 
         if(trabajos[i].isEmpty == 0)
         {
-            printTrabajos(trabajos[i],notebooks,tamNotebook,servicios,tamServicios);
+
+            imprimirTrabajos(trabajos[i],notebooks,tamNotebook,servicios,tamServicios);
             trigger = 1;
         }
 

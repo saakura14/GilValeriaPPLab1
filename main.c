@@ -29,13 +29,13 @@ int main()
 
         eNotebook notebooks[TAMNOTEBOOKS];
 
-        initNotebook(notebooks,TAMNOTEBOOKS);
+        inicioNotebook(notebooks,TAMNOTEBOOKS);
 
         DatosNotebook(notebooks,TAMNOTEBOOKS);
 
         eTrabajo trabajos[TAMTRABAJOS];
 
-        initTrabajos(trabajos,TAMTRABAJOS);
+        inicioTrabajos(trabajos,TAMTRABAJOS);
 
 
 
