@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1589767181 source:c:\users\valeria\desktop\gilvaleria - parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"notebook.h"
+	"marca.h"
+	"tipo.h"
+	"servicios.h"
+	"trabajo.h"
+
+1589767181 c:\users\valeria\desktop\gilvaleria - parcial\notebook.h
+	"marca.h"
+	"Tipo.h"
+
+1589762986 c:\users\valeria\desktop\gilvaleria - parcial\marca.h
+
+1589762988 c:\users\valeria\desktop\gilvaleria - parcial\tipo.h
+
+1589765595 c:\users\valeria\desktop\gilvaleria - parcial\servicios.h
+
+1589768552 c:\users\valeria\desktop\gilvaleria - parcial\trabajo.h
+	"Notebook.h"
+	"marca.h"
+	"Tipo.h"
+	"Servicios.h"
+
+1589763345 source:c:\users\valeria\desktop\gilvaleria - parcial\marca.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"Notebook.h"
+	"marca.h"
+	"Tipo.h"
+	"Servicios.h"
+	"Trabajo.h"
+
+1589770229 source:c:\users\valeria\desktop\gilvaleria - parcial\servicios.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"Servicios.h"
+	"Notebook.h"
+	"marca.h"
+	"Tipo.h"
+	"Trabajo.h"
+
+1589765663 source:c:\users\valeria\desktop\gilvaleria - parcial\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"Notebook.h"
+	"marca.h"
+	"Tipo.h"
+	"Servicios.h"
+	"Trabajo.h"
+
+1589765594 source:c:\users\valeria\desktop\gilvaleria - parcial\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"Trabajo.h"
+	"Notebook.h"
+	"marca.h"
+	"Tipo.h"
+	"Servicios.h"
+
+1589767181 source:c:\users\valeria\desktop\gilvaleria - parcial\notebook.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"Datos.h"
+	"Notebook.h"
+	"marca.h"
+	"Tipo.h"
+	"Servicios.h"
+	"Trabajo.h"
+
+1589771042 c:\users\valeria\desktop\gilvaleria - parcial\datos.h
+
