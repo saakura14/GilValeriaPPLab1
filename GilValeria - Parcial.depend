@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1589832150 source:c:\users\valeria\desktop\gilvaleria - parcial\main.c
+1589832831 source:c:\users\valeria\desktop\gilvaleria - parcial\main.c
 	<stdio.h>
 	<stdlib.h>
 	<ctype.h>
@@ -13,11 +13,11 @@
 	"marca.h"
 	"Tipo.h"
 
-1589762986 c:\users\valeria\desktop\gilvaleria - parcial\marca.h
+1589832857 c:\users\valeria\desktop\gilvaleria - parcial\marca.h
 
-1589762988 c:\users\valeria\desktop\gilvaleria - parcial\tipo.h
+1589832819 c:\users\valeria\desktop\gilvaleria - parcial\tipo.h
 
-1589765595 c:\users\valeria\desktop\gilvaleria - parcial\servicios.h
+1589832752 c:\users\valeria\desktop\gilvaleria - parcial\servicios.h
 
 1589832569 c:\users\valeria\desktop\gilvaleria - parcial\trabajo.h
 	"Notebook.h"
@@ -25,7 +25,7 @@
 	"Tipo.h"
 	"Servicios.h"
 
-1589763345 source:c:\users\valeria\desktop\gilvaleria - parcial\marca.c
+1589832858 source:c:\users\valeria\desktop\gilvaleria - parcial\marca.c
 	<stdio.h>
 	<stdlib.h>
 	<ctype.h>
@@ -36,7 +36,7 @@
 	"Servicios.h"
 	"Trabajo.h"
 
-1589770229 source:c:\users\valeria\desktop\gilvaleria - parcial\servicios.c
+1589832752 source:c:\users\valeria\desktop\gilvaleria - parcial\servicios.c
 	<stdio.h>
 	<stdlib.h>
 	<ctype.h>
@@ -47,7 +47,7 @@
 	"Tipo.h"
 	"Trabajo.h"
 
-1589765663 source:c:\users\valeria\desktop\gilvaleria - parcial\tipo.c
+1589832819 source:c:\users\valeria\desktop\gilvaleria - parcial\tipo.c
 	<stdio.h>
 	<stdlib.h>
 	<ctype.h>
@@ -58,7 +58,7 @@
 	"Servicios.h"
 	"Trabajo.h"
 
-1589832522 source:c:\users\valeria\desktop\gilvaleria - parcial\trabajo.c
+1589832780 source:c:\users\valeria\desktop\gilvaleria - parcial\trabajo.c
 	<stdio.h>
 	<stdlib.h>
 	<ctype.h>

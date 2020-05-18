@@ -93,7 +93,7 @@ int main()
         case 5:
          if(trigger==1){
             system("cls");
-          printMarcas(marca,TAMMARCA);
+            imprimirMarcas(marca,TAMMARCA);
         }
         else
         {
@@ -104,7 +104,7 @@ int main()
         case 6:
          if(trigger==1){
             system("cls");
-          printTipo(tipos,TAMTIPOS);
+            imprimirTipo(tipos,TAMTIPOS);
         }
         else
         {
@@ -115,7 +115,7 @@ int main()
         case 7:
          if(trigger==1){
             system("cls");
-            printServicios(servicios,TAMSERVICIOS);
+            imprimirServicios(servicios,TAMSERVICIOS);
         }
         else
         {

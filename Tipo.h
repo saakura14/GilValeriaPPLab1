@@ -8,7 +8,7 @@ char tipo[20];
 
 }eTipo;
 
-void printTipo(eTipo tipos[] , int tamTipos);
+void imprimirTipo(eTipo tipos[] , int tamTipos);
 int cargarDescripcionTipos(char descripcion[] , eTipo tipos[] , int id , int tamTipos);
 
 #endif // TIPO_H_INCLUDED

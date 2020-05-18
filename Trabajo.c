@@ -71,7 +71,7 @@ void ingresoDatosTrabajo(eTrabajo trabajos[] , int tamTrabajos , eFecha auxFecha
         scanf("%d",&trabajos[indice].idNotebook);
         fflush(stdin);
 
-       printServicios(servicios,tamServicios);
+        imprimirServicios(servicios,tamServicios);
         printf("%d.Ingrese idServicio: ",i+1);
         scanf("%d",&trabajos[indice].idServicio);
         fflush(stdin);

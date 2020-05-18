@@ -9,7 +9,7 @@ int id;
 
 }eServicio;
 
-void printServicios(eServicio servicios[] , int tamServicios);
+void imprimirServicios(eServicio servicios[] , int tamServicios);
 int cargarDescripcionServicios(char descripcion[] , eServicio servicios[] , int id , int tamServicios);
 
 #endif // SERVICIOS_H_INCLUDED

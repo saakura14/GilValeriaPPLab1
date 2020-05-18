@@ -10,7 +10,7 @@
 
 
 
-void printTipo(eTipo tipos[] , int tamTipos)
+void imprimirTipo(eTipo tipos[] , int tamTipos)
 {
 
   int i;

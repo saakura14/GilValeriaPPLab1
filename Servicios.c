@@ -9,7 +9,7 @@
 #include "Trabajo.h"
 
 
-void printServicios(eServicio servicios[] , int tamServicios)
+void imprimirServicios(eServicio servicios[] , int tamServicios)
 {
 
 

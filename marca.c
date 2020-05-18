@@ -12,7 +12,7 @@
 
 
 
-void printMarcas(eMarca marcas[] , int tamMarcas)
+void imprimirMarcas(eMarca marcas[] , int tamMarcas)
 {
 
   int i;
