@@ -1,9 +1,9 @@
 #ifndef NOTEBOOK_H_INCLUDED
 #define NOTEBOOK_H_INCLUDED
 
+
 #include "marca.h"
 #include "Tipo.h"
-
 
 
 typedef struct{

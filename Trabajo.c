@@ -3,6 +3,7 @@
 #include <ctype.h>
 #include <string.h>
 
+
 #include "Trabajo.h"
 #include "Notebook.h"
 #include "marca.h"

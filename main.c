@@ -64,7 +64,7 @@ int main()
         }
         else
         {
-            printf("no hay empleados ingresados.\n");
+            printf("no hay notebooks ingresadas.\n");
         }
         break;
 
@@ -75,7 +75,7 @@ int main()
         }
         else
         {
-            printf("no hay empleados ingresados.\n");
+            printf("no hay notebooks ingresadas.\n");
         }
         break;
 
@@ -86,7 +86,7 @@ int main()
         }
         else
         {
-            printf("No hay empleados ingresados.\n");
+            printf("No hay notebooks ingresadas.\n");
         }
         break;
 
@@ -97,7 +97,7 @@ int main()
         }
         else
         {
-            printf("No hay empleados ingresados.\n");
+            printf("No hay marcas  ingresados.\n");
         }
         break;
 
@@ -108,7 +108,7 @@ int main()
         }
         else
         {
-            printf("No hay empleados ingresados.\n");
+            printf("No hay tipos ingresados.\n");
         }
         break;
 
@@ -119,7 +119,7 @@ int main()
         }
         else
         {
-            printf("No hay empleados ingresados.\n");
+            printf("No hay servicios ingresados.\n");
         }
         break;
 
@@ -130,7 +130,7 @@ int main()
         }
         else
         {
-            printf("no hay empleados ingresados.\n");
+            printf("no hay trabajos ingresados.\n");
         }
         break;
 
@@ -142,7 +142,7 @@ int main()
             }
         else
         {
-            printf("No hay empleados ingresados.\n");
+            printf("No hay servicios ingresados.\n");
         }
         break;
 

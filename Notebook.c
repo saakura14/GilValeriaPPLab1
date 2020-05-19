@@ -46,7 +46,7 @@ int i;
         notebooks[i].idMarca = idMarca[i];
         notebooks[i].idTipo = idTipo[i];
         notebooks[i].precio = precios[i];
-         notebooks[i].isEmpty = 0;
+        notebooks[i].isEmpty = 0;
 
     }
 
@@ -107,11 +107,6 @@ void ingresoDatosNotebook(eNotebook notebooks[] , int tamNotebook)
     indice = buscarLibreNotebook(notebooks,tamNotebook);
 
     if(indice == -1)
-    {
-        printf("NO HAY MAS LUGAR.\n\n");
-    }
-
-    else
     {
 
         printf("%d.Ingrese modelo: ",i+1);

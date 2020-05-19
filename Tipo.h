@@ -1,10 +1,10 @@
 #ifndef TIPO_H_INCLUDED
 #define TIPO_H_INCLUDED
 
-typedef struct{
-
-int id;
-char tipo[20];
+typedef struct
+{
+    int id;
+    char tipo[20];
 
 }eTipo;
 
